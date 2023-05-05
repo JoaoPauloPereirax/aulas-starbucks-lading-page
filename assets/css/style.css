@@ -1,0 +1,19 @@
+body{
+     margin: 0;
+}
+
+header .line{
+     background-color: #117050;
+     height: 10px;
+}
+
+.container{
+     max-width: 1140px;
+     margin: auto;
+}
+
+.header--area{
+     display: flex;
+     justify-content: space-between;
+     height: 100px;
+}
